@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "dbab1d2dbf59113cc9b1751517fcf1b2",
+const RESOURCES = {"flutter_bootstrap.js": "12cc4cdac9fc394cf5c9496bb7317b16",
 "version.json": "bfecad57a3f6090754cffa82f7d77950",
 "index.html": "770414b67cd3dfda1a5609d584750813",
 "/": "770414b67cd3dfda1a5609d584750813",
-"main.dart.js": "e9ed613a263c944b47fd38aedca258d5",
+"main.dart.js": "b00c5c230bc3d177baaee885167d15fc",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -135,7 +135,7 @@ const RESOURCES = {"flutter_bootstrap.js": "dbab1d2dbf59113cc9b1751517fcf1b2",
 "assets/assets/images/games/moneyJump/dead_tile.png": "74d1e80485b56660255066adfddea73b",
 "assets/assets/images/games/moneyJump/commit_disabled.png": "2cfe78d620d00970cadf6a9877f487ef",
 "assets/assets/images/games/moneyJump/but_b_disable.png": "11900c2ba7dcc7ea2e1aefd92ae8e3e3",
-"assets/assets/images/games/moneyJump/coin_1.png": "ca80b317de897a2b5bd83bbe152fc68a",
+"assets/assets/images/games/moneyJump/coin_1.png": "8dd1c1a8ba3d755b7e246a07056da1ea",
 "assets/assets/images/games/moneyJump/bet_on.png": "f636b1522021df63fd8cf6ee435f4ee3",
 "assets/assets/images/games/moneyJump/main_background.jpg": "40c97fb8616beb38b6e0c0db2a927e3a",
 "assets/assets/images/games/moneyJump/logo.png": "0d71f3ed3f1dbb28b5ef7ba97e25c13c",
