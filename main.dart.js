@@ -97849,6 +97849,7 @@ u5(){var s=0,r=A.r(t.X9),q,p=this,o,n,m
 var $async$u5=A.n(function(a,b){if(a===1)return A.o(b,r)
 while(true)switch(s){case 0:o=A.a([],t.pj)
 n=p.a
+A.ac().$1("goal prize sprite = "+("games/"+n.K.CW.n+"/box_blue.png"))
 m=o
 s=3
 return A.h(n.b1("games/"+n.K.CW.n+"/box_blue.png"),$async$u5)
