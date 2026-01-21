@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "81a937c541254e20684ea86b85b0767a",
+const RESOURCES = {"flutter_bootstrap.js": "b44c66d5dc871942dd284aae3f9ca54b",
 "version.json": "bfecad57a3f6090754cffa82f7d77950",
 "index.html": "770414b67cd3dfda1a5609d584750813",
 "/": "770414b67cd3dfda1a5609d584750813",
-"main.dart.js": "13e31dc4108a8e9916f226c13ab84858",
+"main.dart.js": "ab0b645768e90805db2ef91942af947e",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -399,7 +399,7 @@ const RESOURCES = {"flutter_bootstrap.js": "81a937c541254e20684ea86b85b0767a",
 "assets/assets/images/games/sDragon/line3.png": "3aa4dda3cf7c2700f1a49d1e38439c5b",
 "assets/assets/images/games/sDragon/sym_wild.png": "fe4c04adf2dd78290ce66b308a52e0fb",
 "assets/assets/images/games/sDragon/line4.png": "98585f457a2488f52a7ee1e9c1d247e6",
-"assets/assets/images/games/sDragon/meter_bg.png": "dfd9b5a93fe519b486fd0697155a03ba",
+"assets/assets/images/games/sDragon/meter_bg.png": "48dff9a03798fa8f25797f9bcde7a1cf",
 "assets/assets/images/games/sDragon/line5.png": "9c90ccba62cd04b84d9c0ef9a5c7621c",
 "assets/assets/images/games/sDragon/bet_button_focused.png": "27728d13e37138faa9edbf59bd38999c",
 "assets/assets/images/games/sDragon/sym_coin.png": "a930a0277ed07cfa342ee4264bfc5189",
