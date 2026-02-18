@@ -1,0 +1,22 @@
+{
+    "table": [
+      { 
+        "name": "Reel_Choice",
+        "description": "Decides the reel strips for this game - normal (0), no-mystery (1), all-mystery (2)",
+        "type": "weight",
+        "weightEntries": [
+          { "value": 0, "weight": 900 },
+          { "value": 1, "weight": 200 },
+          { "value": 2, "weight": 4 }
+        ]
+     },
+     { 
+        "name": "persistentMultiplierValues",
+        "description": "Bonus Multiplier Values",
+        "type": "value",
+        "values": [
+            8, 10, 12, 15, 20
+        ]
+     }
+    ]
+  }
